@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Attackspeed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Attackspeed_jar</output-path>
+    <root id="archive" name="Attackspeed.jar">
+      <element id="module-output" name="Attackspeed" />
+    </root>
+  </artifact>
+</component>
